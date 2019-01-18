@@ -5,7 +5,7 @@ const withFormItemView = WrappedComponent => props => {
     <WrappedComponent {...props}>
       {React.Children.map(props.children, child => {
         if (props.readOnly === true)
-          return <span>{child.props.value || props.display}</span>
+          return <span>{props.display || child.props.value}</span>
         return <Fragment>{child}</Fragment>
       })}
     </WrappedComponent>
