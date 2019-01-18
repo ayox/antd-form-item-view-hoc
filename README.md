@@ -1,6 +1,10 @@
 # antd-form-item-view-hoc
 A very simple HOC for AntD Form.Item to enable displaying only text without the component. It is useful when you want a view mode of your form.
 
+## Install
+```
+yarn add form-item-view-hoc
+```
 ## Usage 
 
 Here is an example of using this HOC with AntD Form.Item 
@@ -42,6 +46,7 @@ You can check this codesandbox [here](https://codesandbox.io/s/l7lp20zxkl)
 ## Props 
 
 You need to pass these props 
+
 
 
 | Prop        | Type           |Desc  |
