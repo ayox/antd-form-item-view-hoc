@@ -50,7 +50,7 @@ You need to pass these props
 
 
 | Prop        | Type           |Desc  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-----|
 | readOnly    | bool | a value to make the form item read-only |
 |display    | string      |   it's optional and it can overrides the value of form item and display it.|
 
