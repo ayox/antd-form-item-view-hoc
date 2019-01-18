@@ -1,6 +1,6 @@
 {
   "name": "form-item-view-hoc",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/ayox/antd-form-item-view-hoc",
   "description": "A HOC for AntD Form.Item to enable displaying only text without the component. It is useful when you want a view mode of your form. ",
   "main": "index.js",
