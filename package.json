@@ -1,0 +1,22 @@
+{
+  "name": "form-item-view-hoc",
+  "version": "0.0.2",
+  "description": "A HOC for AntD Form.Item to enable displaying only text without the component. It is useful when you want a view mode of your form. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactjs",
+    "antd",
+    "form",
+    "formitem",
+    "hoc"
+  ],
+  "author": "Aymen Al-Ashwal",
+  "license": "MIT ",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
