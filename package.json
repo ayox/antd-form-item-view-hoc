@@ -21,7 +21,9 @@
     "read-only"
   ],
   "author": "Aymen Al-Ashwal",
-  "license": "MIT ",
+  "license": { "type": "MIT"
+    , "url": "https://www.opensource.org/licenses/mit-license.php"
+    },
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
