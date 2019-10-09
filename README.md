@@ -1,4 +1,7 @@
 # antd-form-item-view-hoc
+[![npm](https://img.shields.io/npm/v/form-item-view-hoc.svg?maxAge=2592000)](https://www.npmjs.com/package/form-item-view-hoc)
+[![downloads](https://img.shields.io/npm/dt/form-item-view-hoc.svg?maxAge=2592000)](https://www.npmjs.com/package/form-item-view-hoc)
+
 A very simple HOC for AntD Form.Item to enable displaying only text without the component. It is useful when you want a view mode of your form.
 
 ## Install
